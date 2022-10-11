@@ -18,4 +18,4 @@ The propotyping was done using [Figma](https://www.figma.com/), and you can acce
 
 ## :bricks: Contribuiting
 
-As we are in the month of hacktoberfest, the repository is open to contributions. The issues will be available and you can take any one. In the pull request I will review and leave a comment template on the pull request to be accepted.
+As we are in the month of hacktoberfest, the repository is open to contributions. The issues will be available and you can take any one. In the pull request I will review and leave a comment template on the merge request to be accepted.
